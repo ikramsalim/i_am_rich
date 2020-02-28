@@ -13,11 +13,8 @@ void main() {
         title: Text('I Am Rich'),
         backgroundColor: Colors.blueGrey[900],
       ),
-      body: Center(
-        child: Image(
-          image: NetworkImage(
-              'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg'),
-        ),
+      body: Image(
+        image: AssetImage('images/diamond.png'),
       ),
     ),
   ));
