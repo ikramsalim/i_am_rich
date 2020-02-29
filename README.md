@@ -36,7 +36,7 @@ samples, guidance on mobile development, and a full API reference.
 
    ### Images 
 
- Using an image from URL
+ Using a url image link from the internet on flutter 
  
  
    ![](images/addedImage.png)
