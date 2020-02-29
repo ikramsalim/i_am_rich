@@ -26,7 +26,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Android Studio 
 
-## draw.io to create the flowchart of the i-am-rich app
+Used draw.io to create the flowchart of the i-am-rich app
 
 
    ### Images 
