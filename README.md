@@ -18,8 +18,16 @@ samples, guidance on mobile development, and a full API reference.
 
 ### INSTALLATIONS
 X-code
+
+
+
 Android Studio 
+
+
+
 Flutter 
+
+
 
 
 Other Tools: draw.io to create the flowchart of the i-am-rich app
