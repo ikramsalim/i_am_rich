@@ -31,7 +31,8 @@ samples, guidance on mobile development, and a full API reference.
 ## Flutter 
 
 
-## draw.io to create the flowchart of the i-am-rich app
+## draw.io
+to create the flowchart of the i-am-rich app
 
 
    ### Images 
